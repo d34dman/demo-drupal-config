@@ -1,0 +1,7 @@
+{
+    "name": "d34dman/demo-drupal-config",
+    "description": "Demo configuration for a drupal site.",
+    "type": "drupal-config",
+    "license": "proprietary",
+    "minimum-stability": "dev"
+}
